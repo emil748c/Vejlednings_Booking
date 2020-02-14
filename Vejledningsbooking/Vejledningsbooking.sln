@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vejledningsbooking", "Vejledningsbooking\Vejledningsbooking.csproj", "{4C67730F-DAD6-4703-A32F-5C09A060FA82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{2195BF06-0E9F-4CDE-B2A5-D3521582EC14}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{4C67730F-DAD6-4703-A32F-5C09A060FA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C67730F-DAD6-4703-A32F-5C09A060FA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C67730F-DAD6-4703-A32F-5C09A060FA82}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2195BF06-0E9F-4CDE-B2A5-D3521582EC14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2195BF06-0E9F-4CDE-B2A5-D3521582EC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2195BF06-0E9F-4CDE-B2A5-D3521582EC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2195BF06-0E9F-4CDE-B2A5-D3521582EC14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
